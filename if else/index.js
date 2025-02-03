@@ -1,11 +1,8 @@
-let name = "karachi"
-let name2 = "karachi"
+let name = "basit";
+let name2 = "hasnain";
 
-
-if(name === name2){
-    console.log("yes we are neibhors")
-   
-}
-else{
-    console.log("no we are not neibhors")
+if("basit===hasnain"){
+    console.log("true")
+}else{
+    console.log("false")
 }
